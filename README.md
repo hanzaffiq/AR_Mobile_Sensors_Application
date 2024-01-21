@@ -4,23 +4,26 @@ My name is Hanz and this is my Github Portfolio Repository.
 This repository contains my courseworks and projects throughout my academic journey at the University of Nottingham Malaysia!
 
 ## Courseworks
-### 1️⃣ Algorithm Correctness and Efficiency Project
+###  Algorithm Correctness and Efficiency Project
 - [Techniques to establish the correctness and performance of various algorithms based on their time complexity, using Big O notation.](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Algorithms%20Correctness%20and%20Efficiency%20Project.pdf)
 
-### 2️⃣ Artificial Intelligence Methods Project
-- [Risk Prediction Model for Infant Respiratory Disease](https://github.com/yenmay-lee00/yenmay_portfolio/blob/main/Risk%20Prediction%20Model%20for%20Infant%20Respiratory%20Diseases.pdf)
+###  Artificial Intelligence Methods Project
+- [Comparative Analysis of Stochastic Optimizers: Evaluating NIPOP-aCMA-ES and Its Competitors](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Artificial%20Intelligence%20Method%20Project.pdf)
 
-### 3️⃣ Designing Intelligent Agents Project
-- [Q1: Finding MLE Using Ordinary Gradient Descent Method and Gradient Projection Method](https://github.com/yenmay-lee00/yenmay_portfolio/blob/main/20311298_Assignment%202.ipynb)
+###  Designing Intelligent Agents Project
+- [A Comparative Study of Connect 4 AI Agents: Developing and Evaluating Intelligent Agents for Optimal Gameplay Strategies](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/DIA%20Project.pdf)
 
-### 4️⃣ Image Processing Project
-- [Association between Levels of Pollution and Mortality in US Cities](https://github.com/yenmay-lee00/yenmay_portfolio/blob/main/Association%20between%20Levels%20of%20Pollution%20and%20Mortality%20in%20US%20cities.pdf)
+###  Image Processing Project
+- [Advanced Image Segmentation Techniques in Plant Leaf Analysis](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Image%20Processing%20Project.pdf)
 
-### 5️⃣ Software Engineering Project
-- [Root Finders: Bisection Method, Fixed-point Iteration Method, Newton’s Method, Secant Method](https://github.com/yenmay-lee00/yenmay_portfolio/blob/main/root_finders.py)
+###  Software Engineering Project
+- [Fit Garage: A Comprehensive Fitness App Development Project](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Software%20Engineering%20Project.pdf)
 
-### 5️⃣ Software Quality Assurance Project
-- [Root Finders: Bisection Method, Fixed-point Iteration Method, Newton’s Method, Secant Method](https://github.com/yenmay-lee00/yenmay_portfolio/blob/main/root_finders.py)
+###  Software Quality Assurance Project
+- [Automated Testing and Quality Assurance in Airline Data Analysis
+- [P1](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/SQA%20project%20(1).pdf)
+- [P2](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/SQA%20project%20(2).pdf)
+
 
 ## Contact
 If you have any questions or would like to connect, please contanct me at hanzaffiq@gmail.com
