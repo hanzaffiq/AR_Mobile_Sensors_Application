@@ -3,7 +3,7 @@ Welcome to my Github!
 My name is Hanz and this is my Github Portfolio Repository.
 This repository contains my courseworks and projects throughout my academic journey at the University of Nottingham Malaysia!
 
-## Courseworks
+## Courseworks and Projects
 ###  Algorithm Correctness and Efficiency Project
 - [Analytical Study of Algorithm Efficiency and Correctness](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Algorithms%20Correctness%20and%20Efficiency%20Project.pdf)
 
