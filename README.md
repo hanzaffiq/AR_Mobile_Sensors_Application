@@ -5,7 +5,7 @@ This repository contains my courseworks and projects throughout my academic jour
 
 ## Courseworks
 ###  Algorithm Correctness and Efficiency Project
-- [Techniques to establish the correctness and performance of various algorithms based on their time complexity, using Big O notation.](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Algorithms%20Correctness%20and%20Efficiency%20Project.pdf)
+- [Analytical Study of Algorithm Efficiency and Correctness](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Algorithms%20Correctness%20and%20Efficiency%20Project.pdf)
 
 ###  Artificial Intelligence Methods Project
 - [Comparative Analysis of Stochastic Optimizers: Evaluating NIPOP-aCMA-ES and Its Competitors](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Artificial%20Intelligence%20Method%20Project.pdf)
