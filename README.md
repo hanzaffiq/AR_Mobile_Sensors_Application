@@ -5,7 +5,7 @@ This repository contains my courseworks and projects throughout my academic jour
 
 ## Courseworks
 ### 1️⃣ Algorithm Correctness and Efficiency Project
-- [Vehicle Fuel Efficiency](https://github.com/yenmay-lee00/yenmay_portfolio/blob/main/Pricing%20Insurance%20Products.pdf)
+- [Techniques to establish the correctness and performance of various algorithms based on their time complexity, using Big O notation.](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Algorithms%20Correctness%20and%20Efficiency%20Project.pdf)
 
 ### 2️⃣ Artificial Intelligence Methods Project
 - [Risk Prediction Model for Infant Respiratory Disease](https://github.com/yenmay-lee00/yenmay_portfolio/blob/main/Risk%20Prediction%20Model%20for%20Infant%20Respiratory%20Diseases.pdf)
