@@ -20,7 +20,7 @@ This repository contains my courseworks and projects throughout my academic jour
 - [Fit Garage: A Comprehensive Fitness App Development Project](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/Software%20Engineering%20Project.pdf)
 
 ###  Software Quality Assurance Project
-- Automated Testing and Quality Assurance in Airline Data Analysis
+Automated Testing and Quality Assurance in Airline Data Analysis
 - [P1](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/SQA%20project%20(1).pdf)
 - [P2](https://github.com/hanzaffiq/Hanz_Portfolio/blob/main/SQA%20project%20(2).pdf)
 
